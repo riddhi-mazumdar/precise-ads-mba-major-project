@@ -4,7 +4,7 @@ A working prototype built for the MBA Major Project titled
 "Precise Targeting Using AI Automation for the Edtech Industry,"
 submitted to the Department of Management Studies, IIT Delhi.
 
-**Live demo:** https://github.com/riddhi-mazumdar/precise-ads-mba-major-project
+**Live demo:** https://riddhi-mazumdar.github.io/precise-ads-mba-major-project/
 
 ## What this is
 
